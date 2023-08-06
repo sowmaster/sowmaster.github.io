@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I'm a Ph.D. student at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of by [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
-Before joining OSU, I obtained my M.Sc. in Pattern Recognition and Intelligent Systems at 
-Beijing University of Aeronautics and Astronautics (Beihang University), and did my undergraduate studies at Ecole Polytechnique de Thies, Senegal. 
+Before joining OSU, I obtained my M.Sc. in Machine Learning and Intelligent Systems at 
+Beijing University of Aeronautics and Astronautics (Beihang University), and did my undergraduate studies in Electrical Engineering at Ecole Polytechnique de Thies, Senegal. 
 
 ## Research 
 My research interests are mainly about optimization methods for modern Machine Learning (ML), robust ML, and Deep Learning Theory. 
