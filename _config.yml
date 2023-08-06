@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daouda Sow"
+title                    : "Daouda A. Sow"
 title_separator          : "-"
-name                     : &name "Daouda A. Sow"
-description              : &description "personal description"
+name                     : &name "Daouda Ahmed Sow"
+description              : &description "PhD student at OSU"
 url                      : https://sowmaster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sowmaster/sowmaster.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Daouda Sow"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student at The Ohio State University"
+  location         : "Columbus, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
