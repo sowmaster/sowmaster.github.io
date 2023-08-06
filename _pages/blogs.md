@@ -7,4 +7,4 @@ author_profile: true
 
 [//]: # ({% include base_path %} )
 
-Blogs go here...
+Blogs go here...coming soon! 

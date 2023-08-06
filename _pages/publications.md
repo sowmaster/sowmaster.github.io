@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% if author.googlescholar %}
+
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
+{% endif %}
 
 
 - ### [Doubly Robust Instance-Reweighted Adversarial Training](https://arxiv.org/abs/2308.00311)
