@@ -5,19 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-
-{% endif %}
-
-[//]: # ({% include base_path %})
-
-[//]: # ({% for post in site.publications reversed %})
-
-[//]: # (  {% include archive-single.html %})
-
-[//]: # ({% endfor %})
 
 - ### [Doubly Robust Instance-Reweighted Adversarial Training](https://arxiv.org/abs/2308.00311)
 > **Daouda Sow**, Sen Lin, Zhangyang Wang, Yingbin Liang. “Doubly Robust Instance- Reweighted Adversarial Training”, submitted for publication, 2023. 
