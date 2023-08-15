@@ -22,7 +22,7 @@ I'm affiliated with the [NSF AI Institute for Future Edge Networks and Distribut
 ## News 
 
 [//]: # (August 2023 - started here)
-- Will be joining Amazon.com, Inc. in Seattle as a Research Scientist intern this coming November!
+- Will be joining Amazon.com, Inc. in Seattle as a Research Scientist intern!
 - New preprint: [Doubly Robust Instance-Reweighted Adversarial Training](https://arxiv.org/abs/2308.00311). We propose a novel doubly robust instance reweighted adversarial training framework based on Distributionally Robust Optimization (DRO).
 - Gave an invited talk in the session “Bilevel Stochastic Methods for Optimization and Learning” at the 2022 INFORMS Annual Meeting, Indianapolis, IN. 
 
