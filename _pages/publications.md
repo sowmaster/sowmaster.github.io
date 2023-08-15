@@ -15,10 +15,6 @@ author_profile: true
 > **Daouda Sow**, Sen Lin, Zhangyang Wang, Yingbin Liang. “Doubly Robust Instance- Reweighted Adversarial Training”, submitted for publication, 2023. 
 
 
-- ### [On the convergence theory for Hessian-free bilevel algorithms](https://arxiv.org/abs/2110.07004)
-> **Daouda Sow**, Kaiyi Ji, Yingbin Liang. “On the convergence theory for Hessian-free bilevel algorithms”, Advances in Neural Information Processing Systems (NeurIPS), 2022. 
-
-
 - ### [Algorithm Design for Online Meta-Learning with Task Boundary Detection](https://arxiv.org/abs/2302.00857)
 > **Daouda Sow**, Sen Lin, Yingbin Liang, Junshan Zhang. “Algorithm Design for Online Meta-Learning with Task Boundary Detection”, submitted for publication, 2023. 
 
@@ -27,8 +23,12 @@ author_profile: true
 > Sen Lin, **Daouda Sow**, Yingbin Liang, Ness Shroff. “Online Bilevel Optimization: A Single-Loop Method with Window Averaging”, submitted for publication, 2023.
 
 
+- ### [On the convergence theory for Hessian-free bilevel algorithms](https://arxiv.org/abs/2110.07004)
+> **Daouda Sow**, Kaiyi Ji, Yingbin Liang. “On the convergence theory for Hessian-free bilevel algorithms”, Advances in Neural Information Processing Systems (NeurIPS), 2022. 
+
+
 - ### [A primal-dual approach to bilevel optimization with multiple inner minima](https://arxiv.org/abs/2203.01123)
-> **Daouda Sow**, Kaiyi Ji, Ziwei Guan, Yingbin Liang. “A primal-dual approach to bilevel optimization with multiple inner minima”, submitted for publication, 2022. 
+> **Daouda Sow**, Kaiyi Ji, Ziwei Guan, Yingbin Liang. “A primal-dual approach to bilevel optimization with multiple inner minima”, AISTATS 2022. 
 
 
 - ### [A Sequential Guiding Network With Attention for Image Captioning](https://arxiv.org/abs/1811.00228)
