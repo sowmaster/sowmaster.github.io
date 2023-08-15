@@ -21,6 +21,6 @@ author_profile: true
 [//]: # (<!--{% endfor %}-->)
 
 - ### Informs 2022
-    invited speaker in the session “Bilevel Stochastic Methods for Optimization and Learning” at the 2022 INFORMS Annual Meeting, Indianapolis, IN. 
+    Invited speaker in the session “Bilevel Stochastic Methods for Optimization and Learning” at the 2022 INFORMS Annual Meeting, Indianapolis, IN. 
 
 Under construction...coming soon!
