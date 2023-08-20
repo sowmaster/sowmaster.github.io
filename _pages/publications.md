@@ -28,7 +28,7 @@ author_profile: true
 
 
 - ### [A primal-dual approach to bilevel optimization with multiple inner minima](https://arxiv.org/abs/2203.01123)
-> **Daouda Sow**, Kaiyi Ji, Ziwei Guan, Yingbin Liang. “A primal-dual approach to bilevel optimization with multiple inner minima”, AISTATS 2022. 
+> **Daouda Sow**, Kaiyi Ji, Ziwei Guan, Yingbin Liang. “A primal-dual approach to bilevel optimization with multiple inner minima”, submitted for publication, 2022. 
 
 
 - ### [A Sequential Guiding Network With Attention for Image Captioning](https://arxiv.org/abs/1811.00228)
