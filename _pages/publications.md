@@ -10,7 +10,7 @@ author_profile: true
 
 {% endif %}
 
-- ### A Novel Blackbox Instruction Optimization Approach in Low Query Regime 
+- ### [A Novel Blackbox Instruction Optimization Approach in Low Query Regime]() 
 >  **Daouda Sow**, Atlas Wang, Yingbin Liang. A Novel Blackbox Instruction Optimization Approach in Low Query Regime, submitted for publication, 2023. 
 
 - ### [Doubly Robust Instance-Reweighted Adversarial Training](https://arxiv.org/abs/2308.00311)
