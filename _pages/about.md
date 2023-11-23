@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of by [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
+I'm a Ph.D. student at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
 Before joining OSU, I obtained my M.Sc. in Machine Learning and Intelligent Systems at 
 Beijing University of Aeronautics and Astronautics (Beihang University), and did my undergraduate studies in Electrical Engineering at Ecole Polytechnique de Thies, Senegal. 
 
