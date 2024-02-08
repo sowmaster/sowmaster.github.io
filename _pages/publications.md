@@ -14,7 +14,7 @@ author_profile: true
 >  **Daouda Sow**, Atlas Wang, Yingbin Liang. A Novel Blackbox Instruction Optimization Approach in Low Query Regime, submitted for publication, 2023. 
 
 - ### [Doubly Robust Instance-Reweighted Adversarial Training](https://arxiv.org/abs/2308.00311)
-> **Daouda Sow**, Sen Lin, Zhangyang Wang, Yingbin Liang. “Doubly Robust Instance- Reweighted Adversarial Training”, submitted for publication, 2023. 
+> **Daouda Sow**, Sen Lin, Zhangyang Wang, Yingbin Liang. “Doubly Robust Instance-Reweighted Adversarial Training”, ICLR 2024. 
 
 
 - ### [Algorithm Design for Online Meta-Learning with Task Boundary Detection](https://arxiv.org/abs/2302.00857)
