@@ -10,6 +10,9 @@ author_profile: true
 
 {% endif %}
 
+- ### [Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization](https://arxiv.org/abs/2402.14270)
+> Xuxi Chen, Zhendong Wang, **Daouda Sow**, Junjie Yang, Tianlong Chen, Yingbin Liang, Mingyuan Zhou, Zhangyang Wang. "Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization", submitted for publication, 2024. 
+
 - ### [A Novel Blackbox Instruction Optimization Approach in Low Query Regime]() 
 >  **Daouda Sow**, Atlas Wang, Yingbin Liang. A Novel Blackbox Instruction Optimization Approach in Low Query Regime, submitted for publication, 2023. 
 
