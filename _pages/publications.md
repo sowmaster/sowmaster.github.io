@@ -12,7 +12,7 @@ author_profile: true
 
 - ### [Dynamic Loss-Based Sample Reweighting For Improved Large Language Model Pretraining]()
 > **Daouda Sow**, Herbert Woisetschläger, Saikiran Bulusu, Shiqiang Wang, Hans Arno
-Jacobsen, Yingbin Liang. Submitted for publication, 2024. 
+Jacobsen, Yingbin Liang. Dynamic Loss-Based Sample Reweighting For Improved Large Language Model Pretraining. Submitted for publication, 2024. 
 
 - ### [Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization](https://arxiv.org/abs/2402.14270)
 > Xuxi Chen, Zhendong Wang, **Daouda Sow**, Junjie Yang, Tianlong Chen, Yingbin Liang, Mingyuan Zhou, Zhangyang Wang. "Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization", submitted for publication, 2024. 
