@@ -11,7 +11,7 @@ redirect_from:
 I've recently joined Amazon in Seattle, WA as an Applied Scientist.
 
 I obtained my Ph.D. at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
-Before joining OSU, I obtained my M.Sc. in Machine Learning and Intelligent Systems at 
+Before joining OSU, I completed my M.Sc. in Machine Learning and Intelligent Systems at 
 Beijing University of Aeronautics and Astronautics (Beihang University), and did my undergraduate studies in Electrical Engineering at Ecole Polytechnique de Thies, Senegal. 
 
 ## Research 
