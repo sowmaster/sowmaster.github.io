@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[quick life update] I've recently joined Amazon in Seattle, WA as an Applied Scientist.
+I've recently joined Amazon in Seattle, WA as an Applied Scientist.
 
 I obtained my Ph.D. at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
 Before joining OSU, I obtained my M.Sc. in Machine Learning and Intelligent Systems at 
