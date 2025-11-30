@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
+[quick life update] I've recently joined Amazon in Seattle, WA as an Applied Scientist.
+
+I obtained my Ph.D. at The Ohio State University's department of Electrical and Computer Engineering, under the supervision of [Prof. Yingbin Liang](https://sites.google.com/view/yingbinliang/home). 
 Before joining OSU, I obtained my M.Sc. in Machine Learning and Intelligent Systems at 
 Beijing University of Aeronautics and Astronautics (Beihang University), and did my undergraduate studies in Electrical Engineering at Ecole Polytechnique de Thies, Senegal. 
 
@@ -20,7 +22,7 @@ On the practical side, I aim to design new algorithms with provable guarantees t
 More recently, I mainly focus on optimization for task-specific adaptation of large language models (LLMs), either via direct finetuning of the parameters (when access is allowed) or optimizing the instructions for blackbox LLMs. 
 I'm affiliated with the [NSF AI Institute for Future Edge Networks and Distributed Intelligence (AI-EDGE)](https://aiedge.osu.edu/). 
 
-## News 
+## News (will update soon for last two years!)
 
 [//]: # (August 2023 - started here, [11/23] ) 
 - [Jan 2024] Will be joining IBM Research in New York to work on curriculum learning for foundation models! 
